@@ -1,34 +1,35 @@
 # YARRAMREDDY SAINATHREDDY - Portfolio 🚀
 
-> Backend Engineer | System Architect | Enterprise Systems Developer
+> Backend Software Engineer | Ruby on Rails • Go | E-commerce, ERP & CRM Systems
 
 **Live Portfolio:** https://saiyarramreddy2001.github.io
 
 ## About 💻
 
-Backend Engineer with 1.6 years of experience building enterprise-scale systems at Flaer Homes. Specialized in Go and Ruby on Rails development, with expertise in designing and architecting scalable backend solutions.
+Backend Software Engineer with 2 years of experience building production systems at Flaer Homes. Specialized in Ruby on Rails and Go, with expertise in designing scalable backend platforms for e-commerce, operations, and customer management.
 
-## Key Achievements 🎯
+## What I've Built 🎯
 
-- **Enterprise CRM System** - Go-based system handling 1,000+ daily operations
-- **B2B Operations Platform** - Rails platform with 200+ APIs replacing expensive third-party tools
-- **E-commerce Platform** - Customer-facing website with 70% performance improvements
-- **200+ LeetCode Problems** - Strong algorithmic and problem-solving foundation
+- **Exfactory Marketplace** - Multi-brand D2C platform with server-driven CMS architecture
+- **CRM System (Go)** - Built from scratch with real-time GPS tracking and clean layered architecture
+- **B2B ERP Platform (Rails)** - 150+ APIs managing inventory, procurement, and operations
+- **D2C E-commerce (Rails)** - Payment integration, customer classification, and cart workflows
+- **210+ LeetCode Problems** - Strong foundation in data structures and algorithms
 
 ## Tech Stack 🛠️
 
-**Languages:** Go, Ruby, C++, SQL  
-**Frameworks:** Ruby on Rails, Gin (Go)  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Tools:** AWS S3, Sidekiq, GORM, Git
+**Languages:** Ruby, Go, C++, SQL  
+**Frameworks:** Ruby on Rails, Gin (Go), GORM  
+**Databases & Tools:** PostgreSQL, Redis, Sidekiq, AWS S3, Docker  
+**Backend Engineering:** RESTful APIs, Background Jobs, Server-Driven UI, JWT Authentication
 
 ## Contact 📧
 
 - **Email:** yarramsaireddy2001@gmail.com
 - **LinkedIn:** [linkedin.com/in/yarramreddy](https://linkedin.com/in/yarramreddy)
 - **GitHub:** [github.com/saiyarramreddy2001](https://github.com/saiyarramreddy2001)
-- **LeetCode:** [leetcode.com/u/GcUO9mLy1K](https://leetcode.com/u/GcUO9mLy1K)
+- **LeetCode:** [leetcode.com/u/yarramreddysai](https://leetcode.com/u/yarramreddysai)
 
 ---
 
-_Building scalable backend solutions that drive business impact_ ⚡
+_Building scalable backend systems for modern web applications_ ⚡
